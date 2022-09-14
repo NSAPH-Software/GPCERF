@@ -31,7 +31,7 @@ library("GPCERF")
   # exposure values
   w_all <- seq(0,20,0.1)
 
-  data.table::setDT(sim.data)
+  data.table::setDT(sim_data)
 
   cerf_gp_obj <- estimate_cerf_gp(sim_data,
                                   w_all,
