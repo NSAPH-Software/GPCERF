@@ -1,4 +1,4 @@
-pandoc: 2.19.2
+pandoc: 3.1.1
 pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
@@ -7,7 +7,7 @@ articles:
   GPCERF: GPCERF.html
   Nearest-neighbor-Gaussian-Processes: Nearest-neighbor-Gaussian-Processes.html
   Standard-Gaussian-Processes: Standard-Gaussian-Processes.html
-last_built: 2024-03-01T23:09Z
+last_built: 2024-04-27T05:12Z
 urls:
   reference: https://NSAPH-Software.github.io/GPCERF/reference
   article: https://NSAPH-Software.github.io/GPCERF/articles
