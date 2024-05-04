@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 <p align="center">
   <img src="man/figures/png/gpcerf_logo.png" height="100" alt="Cover Image"/>
 </p>
@@ -194,7 +199,7 @@ Please note that the GPCERF project is released with a [Contributor Code of Cond
 
 ## Contributing
 
-Contributions to the package are encouraged. For detailed information on how to contribute, please refer to the [CONTRIBUTING](CONTRIBUTING.md) guidelines.
+Contributions to the package are encouraged. For detailed information on how to contribute, please refer to the CONTRIBUTING guidelines.
 
 
 ## Reporting Issues & Seeking Support
@@ -203,4 +208,4 @@ If you encounter any issues with GPCERF, we kindly ask you to report them on our
 
 ## References
 
-Ren, B., Wu, X., Braun, D., Pillai, N. and Dominici, F., 2021. Bayesian modeling for exposure response curve via gaussian processes: Causal effects of exposure to air pollution on health outcomes. arXiv preprint arXiv:2105.03454.
+Ren, B., Wu, X., Braun, D., Pillai, N. and Dominici, F., 2021. Bayesian modeling for exposure response curve via gaussian processes: Causal effects of exposure to air pollution on health outcomes. arXiv preprint <doi:10.48550/arXiv.2105.03454>.
