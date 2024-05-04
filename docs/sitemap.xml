@@ -4,12 +4,6 @@
     <loc>https://NSAPH-Software.github.io/GPCERF/404.html</loc>
   </url>
   <url>
-    <loc>https://NSAPH-Software.github.io/GPCERF/CODE_OF_CONDUCT.html</loc>
-  </url>
-  <url>
-    <loc>https://NSAPH-Software.github.io/GPCERF/LICENSE.html</loc>
-  </url>
-  <url>
     <loc>https://NSAPH-Software.github.io/GPCERF/articles/A-Note-on-Choosing-Hyperparameters.html</loc>
   </url>
   <url>
@@ -22,25 +16,31 @@
     <loc>https://NSAPH-Software.github.io/GPCERF/articles/GPCERF.html</loc>
   </url>
   <url>
+    <loc>https://NSAPH-Software.github.io/GPCERF/articles/index.html</loc>
+  </url>
+  <url>
     <loc>https://NSAPH-Software.github.io/GPCERF/articles/Nearest-neighbor-Gaussian-Processes.html</loc>
   </url>
   <url>
     <loc>https://NSAPH-Software.github.io/GPCERF/articles/Standard-Gaussian-Processes.html</loc>
   </url>
   <url>
-    <loc>https://NSAPH-Software.github.io/GPCERF/articles/index.html</loc>
+    <loc>https://NSAPH-Software.github.io/GPCERF/authors.html</loc>
   </url>
   <url>
-    <loc>https://NSAPH-Software.github.io/GPCERF/authors.html</loc>
+    <loc>https://NSAPH-Software.github.io/GPCERF/CODE_OF_CONDUCT.html</loc>
+  </url>
+  <url>
+    <loc>https://NSAPH-Software.github.io/GPCERF/CONTRIBUTING.html</loc>
   </url>
   <url>
     <loc>https://NSAPH-Software.github.io/GPCERF/index.html</loc>
   </url>
   <url>
-    <loc>https://NSAPH-Software.github.io/GPCERF/news/index.html</loc>
+    <loc>https://NSAPH-Software.github.io/GPCERF/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://NSAPH-Software.github.io/GPCERF/reference/GPCERF-package.html</loc>
+    <loc>https://NSAPH-Software.github.io/GPCERF/news/index.html</loc>
   </url>
   <url>
     <loc>https://NSAPH-Software.github.io/GPCERF/reference/autoplot.cerf_gp.html</loc>
@@ -79,10 +79,10 @@
     <loc>https://NSAPH-Software.github.io/GPCERF/reference/compute_sd_gp.html</loc>
   </url>
   <url>
-    <loc>https://NSAPH-Software.github.io/GPCERF/reference/compute_w_corr.html</loc>
+    <loc>https://NSAPH-Software.github.io/GPCERF/reference/compute_weight_gp.html</loc>
   </url>
   <url>
-    <loc>https://NSAPH-Software.github.io/GPCERF/reference/compute_weight_gp.html</loc>
+    <loc>https://NSAPH-Software.github.io/GPCERF/reference/compute_w_corr.html</loc>
   </url>
   <url>
     <loc>https://NSAPH-Software.github.io/GPCERF/reference/estimate_cerf_gp.html</loc>
@@ -110,6 +110,9 @@
   </url>
   <url>
     <loc>https://NSAPH-Software.github.io/GPCERF/reference/get_logger.html</loc>
+  </url>
+  <url>
+    <loc>https://NSAPH-Software.github.io/GPCERF/reference/GPCERF-package.html</loc>
   </url>
   <url>
     <loc>https://NSAPH-Software.github.io/GPCERF/reference/index.html</loc>
